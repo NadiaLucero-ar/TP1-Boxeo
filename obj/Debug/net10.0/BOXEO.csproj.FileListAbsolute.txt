@@ -1,0 +1,14 @@
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\bin\Debug\net10.0\BOXEO.exe
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\bin\Debug\net10.0\BOXEO.deps.json
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\bin\Debug\net10.0\BOXEO.runtimeconfig.json
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\bin\Debug\net10.0\BOXEO.dll
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\bin\Debug\net10.0\BOXEO.pdb
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\BOXEO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\BOXEO.AssemblyInfoInputs.cache
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\BOXEO.AssemblyInfo.cs
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\BOXEO.csproj.CoreCompileInputs.cache
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\BOXEO.dll
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\refint\BOXEO.dll
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\BOXEO.pdb
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\BOXEO.genruntimeconfig.cache
+C:\Users\nadia\OneDrive\Documentos\TP1\BOXEO\obj\Debug\net10.0\ref\BOXEO.dll
